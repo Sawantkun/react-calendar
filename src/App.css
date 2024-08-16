@@ -1,0 +1,14 @@
+.control-panel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    padding: 20px 0;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
